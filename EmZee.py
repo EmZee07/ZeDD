@@ -406,7 +406,7 @@ def pilih_super():
 										oks.append(user+pass4)
 									else:
 										if 'www.facebook.com' in q["error_msg"]:
-											print '\x1b[1;96m[✖] \x1b[1;93m7Days'.
+											print '\x1b[1;96m[✖] \x1b[1;93m7Days'
 											print '\x1b[1;96m[✺] \x1b[1;97mName \x1b[1;91m    : \x1b[1;93m' + b['name']
 											print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
 											print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass4 + '\n'
