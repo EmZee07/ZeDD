@@ -55,7 +55,7 @@ logo = """
 \x1b[1;44m┗━━━┛┗━━━┛┗┛━┗┛┗┛━━━━┗━━━━┛┗━━┛┗━━┛
 \x1b[1;55m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 \x1b[1;66m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \x1b[0m
-   \x1b[7m Author: Zeeshaan \x1b[0m 
+                       \x1b[7m Author: Zeeshaan \x1b[0m 
 \x1b[1;95m[●]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[●] \x1b[0m
 \x1b[7mEm Not Responsible Foh Any MissUse :D \x1b[0m
 \x1b[7m Owner : ZeeShaan \x1b[0m
